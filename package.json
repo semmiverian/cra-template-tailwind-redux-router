@@ -1,0 +1,9 @@
+{
+  "name": "cra-template-tailwind-redux-router",
+  "version": "1.0.0",
+  "description": "Template for create react app with tailwind,redux and router integration",
+  "main": "template.json",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
